@@ -1,0 +1,46 @@
+{
+  "pdp1": {
+    "title": "Sleeveless Shapewear Vest – Crisp White",
+    "url": "https://www.damensch.com/p/sleeveless-shapewear-vest-crisp-white",
+    "new_style": "sw1002-cspwht-0101",
+    "old_count": 9,
+    "new_count": 6,
+    "columns": [
+      {"old_order": 1, "old_label": "Front – model",                         "new_order": 1},
+      {"old_order": 2, "old_label": "Before / After results + return guarantee", "new_order": null},
+      {"old_order": 3, "old_label": "Feature: 2X slimming impact",            "new_order": 2},
+      {"old_order": 4, "old_label": "Feature: 98% chest reduction",           "new_order": 3},
+      {"old_order": 5, "old_label": "Feature: posture lift (back)",           "new_order": 4},
+      {"old_order": 6, "old_label": "Feature: super-stretchy proof (vs tee)", "new_order": null},
+      {"old_order": 7, "old_label": "How to wear / remove",                   "new_order": 6},
+      {"old_order": 8, "old_label": "Size chart",                             "new_order": null},
+      {"old_order": 9, "old_label": "FAQ section",                            "new_order": null}
+    ],
+    "extra_new": [
+      {"new_order": 5, "label": "Additional slimming shot (no old equivalent)"}
+    ]
+  },
+  "pdp2": {
+    "title": "Deo Soft Trunks – Klint Black",
+    "url": "https://www.damensch.com/p/deo-soft-trunks-klinttblack",
+    "new_style": "tk1001-klnblk-v301",
+    "old_count": 11,
+    "new_count": 5,
+    "columns": [
+      {"old_order": 1,  "old_label": "Front – model + pack of 3",             "new_order": null},
+      {"old_order": 2,  "old_label": "Front – model",                          "new_order": 2},
+      {"old_order": 3,  "old_label": "Feature: fabric benefits (soft/moisture/durable)", "new_order": null},
+      {"old_order": 4,  "old_label": "Feature: 5x odour + sustainability",     "new_order": null},
+      {"old_order": 5,  "old_label": "Side – model",                           "new_order": null},
+      {"old_order": 6,  "old_label": "Front – waistband close-up",             "new_order": 1},
+      {"old_order": 7,  "old_label": "Feature: moisture-wick mesh",            "new_order": null},
+      {"old_order": 8,  "old_label": "Back – model",                           "new_order": 3},
+      {"old_order": 9,  "old_label": "Lifestyle – full figure",               "new_order": 5},
+      {"old_order": 10, "old_label": "Comparison: Deo-Soft vs Deo-Cotton",     "new_order": null},
+      {"old_order": 11, "old_label": "Size chart",                             "new_order": null}
+    ],
+    "extra_new": [
+      {"new_order": 4, "label": "Colour variants collage (no old equivalent)"}
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "pdp1": {
+    "url": "https://www.damensch.com/p/sleeveless-shapewear-vest-crisp-white",
+    "title": "Sleeveless Shapewear Vest – Crisp White",
+    "old": [
+      {"order":1,"file":"old_01.jpg","src":"catalog-shapewear-2-0-evised-white-sl-1.jpg"},
+      {"order":2,"file":"old_02.jpg","src":"catalog-shapewear-2-0-evised-white-sl-7.jpg"},
+      {"order":3,"file":"old_03.jpg","src":"catalog-shapewear-2-0-evised-white-sl-2.jpg"},
+      {"order":4,"file":"old_04.jpg","src":"catalog-shapewear-2-0-evised-white-sl-3.jpg"},
+      {"order":5,"file":"old_05.jpg","src":"catalog-shapewear-2-0-evised-white-sl-4.jpg"},
+      {"order":6,"file":"old_06.jpg","src":"catalog-shapewear-2-0-evised-white-sl-5.jpg"},
+      {"order":7,"file":"old_07.jpg","src":"formshapewear2-0-card-new.jpg"},
+      {"order":8,"file":"old_08.jpg","src":"catalog-shapewear-new-s-size.jpg"},
+      {"order":9,"file":"old_09.jpg","src":"catalog-shapewear-2-0-evised-white-sl-10.jpg"}
+    ],
+    "new": [
+      {"order":1,"file":"new_p1.jpg"},{"order":2,"file":"new_p2.jpg"},{"order":3,"file":"new_p3.jpg"},
+      {"order":4,"file":"new_p4.jpg"},{"order":5,"file":"new_p5.jpg"},{"order":6,"file":"new_p6.jpg"}
+    ]
+  },
+  "pdp2": {
+    "url": "https://www.damensch.com/p/deo-soft-trunks-klinttblack",
+    "title": "Deo Soft Trunks – Klint Black",
+    "old": [
+      {"order":1,"file":"old_01.jpg","src":"catalogue-trunk-packs-kb-kb-kb-1.jpg"},
+      {"order":2,"file":"old_02.jpg","src":"catalogue-trunk-packs-kb-kb-kb-2.jpg"},
+      {"order":3,"file":"old_03.jpg","src":"card-ds-t-solid-feature1.jpg"},
+      {"order":4,"file":"old_04.jpg","src":"card-ds-t-solid-feature2.jpg"},
+      {"order":5,"file":"old_05.jpg","src":"catalogue-trunk-packs-kb-kb-kb-3.jpg"},
+      {"order":6,"file":"old_06.jpg","src":"catalogue-trunk-packs-kb-kb-kb-4.jpg"},
+      {"order":7,"file":"old_07.jpg","src":"catalogue-trunk-packs-kb-kb-kb-5.jpg"},
+      {"order":8,"file":"old_08.jpg","src":"catalogue-trunk-packs-kb-kb-kb-6.jpg"},
+      {"order":9,"file":"old_09.jpg","src":"catalogue-trunk-packs-kb-kb-kb-7.jpg"},
+      {"order":10,"file":"old_10.jpg","src":"card-ds-t-solid-range.jpg"},
+      {"order":11,"file":"old_11.jpg","src":"card-ds-t-solid-measurement.jpg"}
+    ],
+    "new": [
+      {"order":1,"file":"new_p1.jpg"},{"order":2,"file":"new_p2.jpg"},{"order":3,"file":"new_p3.jpg"},
+      {"order":4,"file":"new_p4.jpg"},{"order":5,"file":"new_p5.jpg"}
+    ]
+  }
+}
